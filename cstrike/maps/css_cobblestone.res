@@ -1,0 +1,2 @@
+overviews/css_cobblestone.bmp
+overviews/css_cobblestone.txt

@@ -1,0 +1,15 @@
+global 
+{
+	ZOOM	1.23
+	ORIGIN	448.00		 -136.00	 -209.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/css_cobblestone.bmp"
+	HEIGHT	-209
+}
+
+
+//Overview: Zoom 1.23, Map Origin (448.00, -136.00, 792.00), Z Min 1793.00, Z Max -209.00, Rotated 0

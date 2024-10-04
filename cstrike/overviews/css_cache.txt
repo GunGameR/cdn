@@ -1,0 +1,16 @@
+global 
+{
+	ZOOM	1.45
+	ORIGIN	-32.00 	-1102.44	-689.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/css_cache.bmp"
+	HEIGHT	-689
+}
+
+
+//Overview: Zoom 1.45, Map Origin (-32.00, -1102.44, -280.00), Z Min 129.00, Z Max -689.00, Rotated 1
+//Zoom 1.46, Map Origin (-32.00, -1104.00, -280.00), Z Min 129.00, Z Max -689.00, Rotated 1
